@@ -60,7 +60,7 @@ eventhub/
 ## Step 1: Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Kothandaramar/EventHub/tree/main
 cd eventhub
 ```
 
